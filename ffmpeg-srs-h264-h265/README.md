@@ -1,3 +1,4 @@
 - [learn_srs.md](learn_srs.md)
 - [ffmpeg.md](ffmpeg.md)
 - [x264.md](x264.md)
+- [让ffmpeg支持N卡硬件编码.md](让ffmpeg支持N卡硬件编码.md)
