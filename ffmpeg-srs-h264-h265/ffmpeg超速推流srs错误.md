@@ -8,7 +8,7 @@ ffmpeg推流srs，如果忘了-re，推流速度稍快，会发生什么？srs�
 ## 二. 案例
 > ffmpeg转推m3u8到srs的rtmp推流一会儿就断开
 
-1. 报错
+1. 报警告信息
 ```
 [flv @ 035a07c0] Failed to update header with correct duration.
 [flv @ 035a07c0] Failed to update header with correct filesize.
@@ -20,3 +20,6 @@ ffmpeg推流srs，如果忘了-re，推流速度稍快，会发生什么？srs�
    - 源地址是m3u8切片，有几个分片的缓存文件
    - 如果不控制速度，ffmpeg会一开始就吧缓存的数据一下全部尽快推流，速度太快被出错
 4. ![](.images/cafbae4f.png)
+
+
+-flvflags no_duration_filesize

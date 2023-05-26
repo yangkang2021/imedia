@@ -1,10 +1,12 @@
 # 目录
-[TOC]
+> srs影响力确实牛逼，创造了无数生产力，就业岗位，项目和代码示范作用, 对其作者要充满敬意
+
 
 # (零) 要点提炼
 1. http服务：
 1. http_server统计信息网站
 1. http_api信令与统计信息接口等
+   > https://ossrs.net/lts/zh-cn/docs/v4/doc/http-api
 2. 集群
 
 # (一) 下载编译运行srs
