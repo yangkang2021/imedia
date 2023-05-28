@@ -3,7 +3,7 @@
 ## 一. 首先读一读这些文档
 1. http-flv协议：https://blog.csdn.net/King_weng/article/details/106080645
 1. http-flv-chunk：https://www.cnblogs.com/vczf/p/14813438.html
-1. http-flv-srs：http://www.ossrs.net/lts/zh-cn/docs/v5/doc/delivery-http-flv#http-flv-vod-stream
+1. http-flv-srs：http://www.ossrs.net/lts/zh-cn/docs/v5/doc/delivery-http-flv
 
 ## 二. http视频流协议-核心原理
 1. HTTP协议中有个约定：
