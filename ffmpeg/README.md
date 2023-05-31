@@ -5,3 +5,4 @@
 - [ffmpeg超速推流srs错误](ffmpeg超速推流srs错误.md)
 - [ffmpeg转码花屏纠错](ffmpeg转码花屏纠错.md)
 - [http-flv与http视频流协议](http-flv与http视频流协议.md)
+- [ffmpeg的线程数控制](ffmpeg的线程数控制.md)
