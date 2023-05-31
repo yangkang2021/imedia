@@ -26,6 +26,7 @@
 5. [mediasoup的demo的websocket的keepalive与断网检测](mediasoup_websocket_pingpong.md)
 6. [boardcaster与ffmpeg/gstreamer接入](boardcaster.md)
 7. [mediasoup-录制](19-mediasoup-录制.md)
+8. [mediasoup客户端创建producer流程](mediasoup客户端创建producer流程.md)
 
 ### 三. mediasoup编解码器
 2. [webrtc各平台的编码工厂支持情况](18-webrtc各平台的编码工厂支持情况.md)
