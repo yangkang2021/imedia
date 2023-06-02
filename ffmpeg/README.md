@@ -6,3 +6,4 @@
 - [ffmpeg转码花屏纠错](ffmpeg转码花屏纠错.md)
 - [http-flv与http视频流协议](http-flv与http视频流协议.md)
 - [ffmpeg的线程数控制](ffmpeg的线程数控制.md)
+- [ffmpeg转码推流错误分析](ffmpeg转码推流错误分析.md)
