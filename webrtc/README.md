@@ -5,6 +5,7 @@
 2. [webrtc详细分析(一)：项目管理之depot_tools](http://note.youdao.com/noteshare?id=7fde1f691d1d8e186806181514908a57)
 3. [webrtc详细分析(二)：webrtc-gn-linux](http://note.youdao.com/noteshare?id=c6ad7f705955e506fa76ded5f6f596d6)
 4. webrtc详细分析(三)：各个平台的编译
+5. [从webrtc模块独立的项目列表](从webrtc模块独立的项目列表.md)
 
 ### (二) 基础概念，API，SDK，例子
 1. webrtc详细分析(四)：webrtc是什么？
