@@ -1,5 +1,12 @@
 # 从webrtc模块独立的项目列表
 
+## TODO
+1. 想做这事： 把webrtc的带宽估计，拥塞控制独立成一个开源项目。
+   - 实现一个功能像 kcp，udt一样的库，在搭配一些demo。 
+   - 让webrtc的gcc用到各行各业
+   - 带上jitterbuffer+PacerSend
+   - 以mediasoup的基础开始做
+
 ## 一. 带宽估计，拥塞控制
 1. https://github.com/yuanrongxi/razor 做的不好
 2. mediasoup：实现了一套google cc，代码简单
