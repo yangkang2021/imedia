@@ -6,9 +6,18 @@
 
 ## 二. p2p库
 1. libice
+   - 它实现了RFC5245规范定义的交互式连接建立(ICE)协议
+   - https://github.com/str2num/libice
 1. cdnbye
-1. libjuice：https://github.com/paullouisageneau/libjuice
-1. libdatachannel: p2p+datachannel
+1. libjuice
+   - Lightweight UDP Interactive Connectivity Establishment (ICE) library
+   - https://github.com/paullouisageneau/libjuice
+1. libdatachannel
+   - a standalone implementation of WebRTC Data Channels, WebRTC Media Transport, and WebSockets
+   - https://github.com/paullouisageneau/libdatachannel
+3. PJNATH
+   - Open Source ICE, STUN, and TURN Library
+   - https://www.pjsip.org/pjnath/docs/html/index.htm
 1. Libjingle：webrtc的前身，不在维护
 
 ## 三. 音频
