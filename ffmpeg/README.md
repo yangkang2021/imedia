@@ -7,3 +7,4 @@
 - [http-flv与http视频流协议](http-flv与http视频流协议.md)
 - [ffmpeg的线程数控制](ffmpeg的线程数控制.md)
 - [ffmpeg转码推流错误分析](ffmpeg转码推流错误分析.md)
+- [ffmpeg转码推流错误分析2](ffmpeg转码推流错误分析2.md)
