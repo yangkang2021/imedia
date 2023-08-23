@@ -25,7 +25,7 @@
 2. pc的播放器一把都支持各种字幕：vlc，pot，迅雷
 3. 移动端一般都不支持软字幕和外挂字幕
 
-## 七. ffmpeg命令行处理字幕
+## 七. 最常见需求：外挂字幕/软字幕 转 硬字幕
 > https://trac.ffmpeg.org/wiki/HowToBurnSubtitlesIntoVideo
 
 1. 外挂字幕转 硬字幕的方案
