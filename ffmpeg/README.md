@@ -10,4 +10,4 @@
 - [ffmpeg转码推流错误分析2](ffmpeg转码推流错误分析2.md)
 - [ffmpeg的编译](ffmpeg的编译.md)
 - [ffmpeg8bit和10bit的转换](ffmpeg8bit和10bit的转换.md)
-- [ffmpeg的字幕流](ffmpeg的字幕流.md)
+- [音视频里的字幕](音视频里的字幕.md)
