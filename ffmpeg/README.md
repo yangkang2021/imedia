@@ -11,3 +11,4 @@
 - [ffmpeg的编译](ffmpeg的编译.md)
 - [ffmpeg8bit和10bit的转换](ffmpeg8bit和10bit的转换.md)
 - [音视频里的字幕](音视频里的字幕.md)
+- [ffmpeg的concat的使用注意](ffmpeg的concat的使用注意.md)
