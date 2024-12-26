@@ -1,0 +1,14 @@
+# WebRTC音频开启rtx和fec后丢包统计不对
+
+## 现象
+音频开启rtx和fec后，丢包率已经算不出来， 连累积loss都不准了。
+![img_1.png](img_1.png)
+
+## 修复
+![img.png](img.png)
+解释
+- 统计是在 接收流的 ChannelReceive 里做的， 
+- 这里会同时接口原始包和 修复还原后的包（相同的PT,SSRC）， 
+- 但修复后的包带 recover标记， 可以在统计的时候跳过， 
+- 因为RTC音频之前没有RTX和 RED之外的 FEC， 统计的时候就没有判断 就搞乱了。
+
