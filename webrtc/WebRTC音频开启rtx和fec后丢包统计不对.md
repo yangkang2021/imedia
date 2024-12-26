@@ -1,8 +1,9 @@
-# WebRTC音频开启rtx和fec后丢包统计不对
+# 修复-WebRTC音频开启rtx和fec后丢包统计不对
 
 ## 一. 说明
 1. webrtc音频默认：不开启nack-rtx，不开启fec，只支持opus的带内fec。
-2. 音频开启rtx和fec后，丢包率已经算不出来， 连累积loss都不准了。
+2. 为了对抗高丢包率，需要手动开启nack和fec。
+3. 音频开启rtx和fec后，丢包率已经算不出来， 连累积loss都不准了。
 
 ## 二. 现象
 ![img_1.png](img_1.png)
